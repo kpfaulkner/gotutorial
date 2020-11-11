@@ -1,7 +1,6 @@
 package main
 
-import "fmt"
-
+/*
 func adder(firstNum int, secondNum int) int {
 
 	var answer int
@@ -9,8 +8,12 @@ func adder(firstNum int, secondNum int) int {
 	answer = firstNum + secondNum
 
 	return answer
-
 }
+*/r
+}
+*/
+
+
 
 func main() {
 
@@ -52,13 +55,15 @@ func main() {
 		fmt.Printf("string is %s : number is %d\n", myString, num)
 	*/
 
-	var firstNum int
-	var secondNum int
-	var answer int
+	/*
+		var firstNum int
+		var secondNum int
+		var answer int
 
-	firstNum = 1
-	secondNum = 2
-	answer = adder(firstNum, secondNum)
+		firstNum = 1
+		secondNum = 2
+		answer = adder(firstNum, secondNum)
 
-	fmt.Printf("%d plus %d equals %d\n", firstNum, secondNum, answer)
+		fmt.Printf("%d plus %d equals %d\n", firstNum, secondNum, answer) */
+
 }
